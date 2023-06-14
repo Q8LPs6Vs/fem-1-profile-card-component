@@ -99,9 +99,6 @@ span {
 
 .card-photo {
     margin: 0 auto;
-}
-
-.card-photo {
     width: 6rem;
     height: 6rem;
     border-radius: 50%;
